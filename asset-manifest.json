@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poetry-book-club/static/css/main.2763b4c6.css",
+    "main.js": "/poetry-book-club/static/js/main.23ea3b2c.js",
+    "static/js/453.d7d0d6ed.chunk.js": "/poetry-book-club/static/js/453.d7d0d6ed.chunk.js",
+    "index.html": "/poetry-book-club/index.html",
+    "main.2763b4c6.css.map": "/poetry-book-club/static/css/main.2763b4c6.css.map",
+    "main.23ea3b2c.js.map": "/poetry-book-club/static/js/main.23ea3b2c.js.map",
+    "453.d7d0d6ed.chunk.js.map": "/poetry-book-club/static/js/453.d7d0d6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2763b4c6.css",
+    "static/js/main.23ea3b2c.js"
+  ]
+}
